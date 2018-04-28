@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "40448851472",
+    "firebase_url": "https://androidproject-5405d.firebaseio.com",
+    "project_id": "androidproject-5405d",
+    "storage_bucket": "androidproject-5405d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40448851472:android:633d497ec5494b68",
+        "android_client_info": {
+          "package_name": "com.example.marwa.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40448851472-6scoh4a1qtq5j85klsfprq68ui07kd81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzPpKIo5eBZmY_mrFUo-jA7YtwbIQaKUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
